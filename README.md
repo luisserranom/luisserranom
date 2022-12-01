@@ -6,7 +6,7 @@
 <h4 align="center">🌱 I'm currently attending a boot-camp in Generation Chile. Orientated to be a java full stack junior developer. 🌱</h4>
 <h4 align="center"> 😄 My friends usually call me Lucho/Isma. 😄</h4>
 <h4 align="center"> 👨‍🎓 I studied to become a Programmer Analyst. 👨🏻‍💻 </h4>
-<h4 align="center"> 🎮/👾 Mi nick en los videojuegos es ismaelitoxx99. 👾/🖥️ </h4>
+<h4 align="center"> 🎮/👾 My nick in video games is ismaelitoxx99. 👾/🖥️ </h4>
 <br><hr>
 <h1 align="center"> 👀 Connect with me 👀</h1>
 
