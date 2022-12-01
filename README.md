@@ -8,7 +8,7 @@
 <h4 align="center"> 👨‍🎓 I studied computer programmer analyst. 👨🏻‍💻 </h4>
 <h4 align="center"> 🎮/👾 Mi nick en los videojuegos es ismaelitoxx99. 👾/🖥️ </h4>
 <br><hr>
-<h1> 👀 Connect with me 👀</h1>
+<h1 align="center"> 👀 Connect with me 👀</h1>
 
 
 <table align="center"> 
