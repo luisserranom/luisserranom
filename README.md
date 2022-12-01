@@ -69,7 +69,7 @@
 
 </table>
 
-<div>
+<div align="center">
   <img  src="https://img.unocero.com/2018/09/t-rex-gif.gif" width="800px">
 </div>
 
