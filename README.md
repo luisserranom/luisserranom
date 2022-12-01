@@ -5,15 +5,15 @@
 <h2 align="center"> 👋 Hello I'm Ismael Serrano and a I'm a beginner in the world of the software development </h2>
 <h4 align="center">🌱 I'm currently attending a boot-camp in Generation Chile. Orientated to be a java full stack junior developer. 🌱</h4>
 <h4 align="center"> 😄 My friends use to call me Lucho/Isma. 😄</h4>
-<h4 align="center"> I studied computer programmer analyst. </h4>
-<h4 align="center"> Mi nick en los videojuegos es ismaelitoxx99. </h4>
+<h4 align="center"> 👨‍🎓 I studied computer programmer analyst. 👨🏻‍💻 </h4>
+<h4 align="center"> 🎮/👾 Mi nick en los videojuegos es ismaelitoxx99. 👾/🖥️ </h4>
 <br>
-<h3> My Skill Set </h3>
+<h3> 🤹🏻 My Skill Set </h3>
 <table> 
   <tr>
-    <td> <h2>Frontend </h2> </td>
-    <td> <h2> Backend </h2> </td>
-    <td> <h2> Others </h2> </td>
+    <td> <h2> 👨‍🎨 Frontend 🖼️ </h2> </td>
+    <td> <h2> 👨‍🔬 Backend 🧮 </h2> </td>
+    <td> <h2> 🤷🏼 Others ⁉️ </h2> </td>
   </tr>
   <tr>
     <td> 
