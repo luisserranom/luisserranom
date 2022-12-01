@@ -26,7 +26,6 @@
       </a>
     </td>
     <td>
-     
       <a href="https://www.linkedin.com/in/luis-israel-serrano-miranda-888aa61b9/">
         <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50px">
       </a>
