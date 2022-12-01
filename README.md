@@ -2,7 +2,7 @@
   <img  src="https://res.cloudinary.com/practicaldev/image/fetch/s--5SXqnWZ2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2ciu6mo6r9x9zyverc10.gif" width="1000">
 </div>
 
-<h2 align="center"> 👋 I'm currently attending a software development bootcamp provided by Generation Chile. Aiming to become a Junior Full Stack Developer focused mainly in Java. </h2>
+<h2 align="center"> 👋 I'm currently studying a software development bootcamp provided by Generation Chile. Aiming to become a Junior Full Stack Developer focused mainly in Java. </h2>
 <h4 align="center">🌱 I'm currently attending a boot-camp in Generation Chile. Orientated to be a java full stack junior developer. 🌱</h4>
 <h4 align="center"> 😄 My friends usually call me Lucho/Isma. 😄</h4>
 <h4 align="center"> 👨‍🎓 I studied to become a Programmer Analyst. 👨🏻‍💻 </h4>
