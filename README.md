@@ -65,10 +65,9 @@
       <img  src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="50px">
     </td>
   </tr>
-  
-
 </table>
 
+<hr>
 <div align="center">
   <img  src="https://img.unocero.com/2018/09/t-rex-gif.gif" width="800px">
 </div>
