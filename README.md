@@ -19,15 +19,16 @@
   
   <tr>
     <td> 
-      <a href="https://www.linkedin.com/in/luis-israel-serrano-miranda-888aa61b9/">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50px">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/luisserranom" >
+       <a href="https://github.com/luisserranom" >
         <img align="center" src="https://cdn-icons-png.flaticon.com/512/779/779088.png" width="50px">
         <br>
         <img align="center" src="https://img.shields.io/github/followers/luisserranom?style=social">
+      </a>
+    </td>
+    <td>
+     
+      <a href="https://www.linkedin.com/in/luis-israel-serrano-miranda-888aa61b9/">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50px">
       </a>
     </td>
   </tr>
