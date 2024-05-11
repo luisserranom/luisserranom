@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td> 
-      <img  src="https://cdn.iconscout.com/icon/free/png-256/react-2-458175.png" width="50px">
+      <!-- <img  src="https://cdn.iconscout.com/icon/free/png-256/react-2-458175.png" width="50px"> -->
       <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" width="50px">
       <img  src="https://alexandracch.github.io/portfolio/assets/img/skills-tech/css3.png" width="50px">
       <br>
@@ -52,15 +52,15 @@
     </td>
     <td>
       <img  src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50">
-      <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="50px">
-      <img  src="https://www.pngkey.com/png/full/360-3603565_php-logo-png-logo-php.png" width="50px"> 
-      <br>
+      <!-- <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="50px"> -->
+      <!-- <img  src="https://www.pngkey.com/png/full/360-3603565_php-logo-png-logo-php.png" width="50px">  -->
       <img  src="https://pngimg.com/uploads/mysql/mysql_PNG11.png" width="50">
-      <img  src="https://porcionesdecodigohome.files.wordpress.com/2021/01/pl-sql.png" width="50px">
+      <br>
+      <!-- <img  src="https://porcionesdecodigohome.files.wordpress.com/2021/01/pl-sql.png" width="50px"> -->
       <img  src="https://miro.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png" width="50px">
     </td>
     <td> 
-      <img  src="https://www.freepnglogos.com/uploads/wordpress-logo-png/wordpress-logo-png-transparent-wordpress-logo-images-pluspng-6.png" width="80px">
+      <!-- <img  src="https://www.freepnglogos.com/uploads/wordpress-logo-png/wordpress-logo-png-transparent-wordpress-logo-images-pluspng-6.png" width="80px"> -->
       <img  src="https://cdn.iconscout.com/icon/free/png-256/social-285-116319.png" width="50px">
       <img  src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="50px">
     </td>
